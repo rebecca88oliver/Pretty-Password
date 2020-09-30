@@ -2,6 +2,9 @@
 
  Generates a 7-10 alpha - numeric password. 
 
+<a href="https://rebecca88oliver.github.io/Pretty-Password/">
+
+
 This simple app was developed for educational purposes and to generate strong passwords. 
 
  Future development will include:
